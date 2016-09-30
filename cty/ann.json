@@ -1,0 +1,29 @@
+{
+    "result": {
+        "city": "Annapolis, MD",
+		"posts": [
+            {
+                "name": "Chick and Ruth's",
+				"add1": "165 Main St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 269-6737",
+				"url": "http://chickandruths.com/",
+				"note": "Lively landmark diner featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs."
+            },
+            {
+                "name": "Storm Brothers Ice Cream Factory",
+				"add1": "130 Dock St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 263-3376",
+				"url": "http://www.stormbros.com/",
+				"note": "Neighborhood ice cream parlor serving cones, shakes, flurries, sundaes and more since 1976."
+            }
+        ]
+    }
+}

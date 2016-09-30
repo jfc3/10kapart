@@ -1,0 +1,139 @@
+{
+    "result": {
+        "city": "Washington, DC",
+		"posts": [
+            {
+                "name": "2 Amy's Neapolitan Pizzeria",
+				"add1": "3715 Macomb St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20016",
+				"phn": "202) 885-5700",
+				"url": "http://www.2amysdc.com/",
+				"note": "Bustling wood-oven pizzeria serves innovative Neapolitan-style pies and Italian wine by the glass."
+            },
+            {
+                "name": "Amsterdam Falafel - Adams Morgan",
+				"add1": "2425 18th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20009",
+				"phn": "(202) 234-1969",
+				"url": "http://falafelshop.com/",
+				"note": "Falafel on pita bread plus Middle Eastern salads and Belgian fries at a late-night quick-serve eatery."
+            },
+            {
+                "name": "Ben's Chili Bowl",
+				"add1": "1213 U St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20009",
+				"phn": "(202) 667-0909",
+				"url": "http://benschilibowl.com/",
+				"note": "Historic spot attracts locals and celebrities for the spicy hot dogs, chili-cheese fries and milkshakes."
+            },
+            {
+                "name": "Chinatown Express",
+				"add1": "746 6th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 638-0424",
+				"url": "http://www.chinatownexpressdc.com/",
+				"note": "Family-run Chinese joint serving handmade noodles (spun in front of the window) and dumplings."
+            },
+            {
+                "name": "Fast Gourmet",
+				"add1": "1400 W St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20009",
+				"phn": "(202) 448-9217",
+				"url": "http://www.fastgourmetdc.com/",
+				"note": "Large Latin-style sandwiches are served until late at this counter at a gas station."
+            },
+            {
+                "name": "Maketto",
+				"add1": "1351 H St NE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": " (202) 838-9972",
+				"url": "http://maketto1351.com/restaurant/",
+				"note": "Food and fashion marketplace featuring java, street food and fashion from DC-based businesses."
+            },
+            {
+                "name": "Market Lunch - DC (Eastern Market)",
+				"add1": "225 7th St SE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20003",
+				"phn": "202) 547-8444",
+				"url": "",
+				"note": "Famous for the blue buck blueberry pancakes and a breakfast sandwich called the brick (fried egg, cheese, potatoes, and meat on a soft roll.)"
+            },
+            {
+                "name": "The Pig - 14th St.",
+				"add1": "1320 14th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20005",
+				"phn": "(202) 290-2821",
+				"url": "http://www.thepigdc.com/",
+				"note": "Barn wood on the walls matches the hearty barnyard cuisine at this pork-centric New American eatery."
+            },
+            {
+                "name": "Thai X-ing",
+				"add1": "515 Florida Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 332-4322",
+				"url": "http://www.thaix-ing.com/",
+				"note": "This small Thai spot uses traditional recipes and offers chef's choice menus and vegetarian specials. Plu, you need to make a reservation because they don't take walk-ins"
+            },
+            {
+                "name": "Thomas Sweets - Georgetown",
+				"add1": "3214 P St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20007",
+				"phn": "(202) 337-0616",
+				"url": "http://www.thomassweet.com/locations/washington-dc",
+				"note": "Well-known dessert shop dishing up small-batch ice cream plus frozen yogurt and handmade chocolates."
+            },
+            {
+                "name": "Toki Underground",
+				"add1": "1234 H Street NE",
+				"add2": "2nd Floor",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "(202) 388-3086",
+				"url": "tokiunderground.com/",
+				"note": "Popular but snug Asian-fusion eatery known for ramen noodle soups, dumplings, sake and cocktails."
+            },
+            {
+                "name": "Union Market",
+				"add1": "1309 5th St NE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "(301) 347-3998",
+				"url": "http://unionmarketdc.com/",
+				"note": "Warehouse-like food market with a host of artisans offering charcuterie, empanadas, gelato and more."
+            }
+        ]
+    }
+}
