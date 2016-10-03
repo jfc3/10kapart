@@ -1,6 +1,6 @@
 <?php
-if ($_POST['slct'] != "" && $_POST['slct'] != "xxx") {
-	$json_file = file_get_contents('./cty/'.$_POST['slct'].'.json');
+if ($_GET['slct'] != "" && $_GET['slct'] != "xxx") {
+	$json_file = file_get_contents('./cty/'.$_GET['slct'].'.json');
 	$jfo = json_decode($json_file);
 	$city = $jfo->result->city;
 	$posts = $jfo->result->posts;	
@@ -57,7 +57,7 @@ if ($_POST['slct'] != "" && $_POST['slct'] != "xxx") {
 		<h1>jfciii Ate Here</h1>
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
-		<form name="RequestForm" method="post" action="index.php" role="form">
+		<form name="RequestForm" method="get" action="index.php" role="form">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
 				<option value="xxx">Select a location</option>
@@ -85,7 +85,7 @@ if ($_POST['slct'] != "" && $_POST['slct'] != "xxx") {
 			</select>
 			<input class="submit" type="submit" value="Submit">
 		</form>
-	<?php if ($_POST['slct'] == "" || $_POST['slct'] == "xxx") { ?>
+	<?php if ($_GET['slct'] == "" || $_GET['slct'] == "xxx") { ?>
 		<h2>Welcome</h2>
 		<p>Here are places <a href="http://jfciii.com">John F Croston III</a> recommends to eat at when in any of these cities, states, or suburban locations which are part of my <a href="https://a-k-apart.com/">10K Apart</a> entry.</p>
 		<p>In the near future, I plan on creating an application that people can keep use track the places they want to eat when the travel.</p>
