@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here - 10K Apart Entry
-* Release Number:  v.0.1.0
+* Release Number:  v.0.2.0
 * Release Date: 09-27-2016
 
 ## Overview
@@ -14,6 +14,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Annapolis, MD
 * Austin, TX
 * Baltimore, MD
+* Boston, MA
 * Buffalo, NY
 * Cleveland, PA
 * Columbus, OH
@@ -46,12 +47,15 @@ So in the near future, I plan on creating an application that people can keep tr
 ## New Features and Enhancements
 Features:
 
-* Most likely add more details about restaurants as I travel along with pay attention to what places I liked and didn't like.
 * Add more cities and more restaurants.
-* Need to break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much places to eat for one city or location.
+* Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location.
 * Possibly add an accessible SVG map of the Unites States that will allow people to see places to eat in those states.
-* Will look into adding social media for at least Twitter and Facebook so people can point their friends to the website.
+* Look into adding social media for at least Twitter and Facebook so people can point their friends to the website.
 * Add Google Analytics to see if the full website is getting any traffic.
+Enhancements:
+
+* Added Boston, MA, to drop down list and created necessary JSON.
+* Added code to check INPUT field for special characters.
 
 ## Installation
 Please have the following installed before running:
