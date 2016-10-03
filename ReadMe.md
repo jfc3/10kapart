@@ -38,7 +38,7 @@ If you look in the CTY folder, you will find some cities and locations with more
 
 There is a city.josn file that you can use as a tempalte to create other city files.
 
-All the extra CLASSes for each restaurant are there so they have microformats added to them, which is hepful to computers. Look for the 'vcard' CLASS
+All the extra CLASSes for each restaurant are there so they have microformats added to them, which is hepful to computers. Look for the 'vcard' CLASS.
 
 I'm working on a more detailed version that is not part of the 10K Apart contest that has my recommendations or ones my friends whose food recommendations I trust, TV shows, blog posts, articles, etc.
 
