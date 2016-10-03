@@ -1,6 +1,7 @@
 <?php
-if ($_GET['slct'] != "" && $_GET['slct'] != "xxx") {
-	$json_file = file_get_contents('./cty/'.$_GET['slct'].'.json');
+$slct = htmlspecialchars($_GET['slct']);
+if ($slct != "" && $slct != "xxx") {
+	$json_file = file_get_contents('./cty/'.$slct.'.json');
 	$jfo = json_decode($json_file);
 	$city = $jfo->result->city;
 	$posts = $jfo->result->posts;	
@@ -64,6 +65,7 @@ if ($_GET['slct'] != "" && $_GET['slct'] != "xxx") {
 				<option value="ann">Annapolis, MD</option>
 				<option value="aus">Austin, TX</option>
 				<option value="bal">Baltimore, MD</option>
+				<option value="bos">Boston, MA</option>
 				<option value="buf">Buffalo, NY</option>
 				<option value="cle">Cleveland, PA</option>
 				<option value="col">Columbus, OH</option>
