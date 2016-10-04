@@ -109,7 +109,7 @@ if ($slct != "" && $slct != "xxx") {
     <?php	}	?>
 		<p><a href="#cntnt"><strong>Return to Top of Page</strong></a></p>
 	<?php	}	?>
-		<p>For more restaurants for a given location and a few more cities make sure to check out <a href="http://jfciii.com/atehere/">John F Croston III Ate Here</a>.</p>
+		<p>For more restaurants for a given location and a few more cities make sure to check out <a href="http://jfciii.com/atehere/"><strong>John F Croston III Ate Here</strong></a>.</p>
 	</div>
 	<div id="ftr" role="contentinfo">
 		<p role="contentinfo">&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>		
