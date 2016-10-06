@@ -25,6 +25,8 @@ if ($slct != "" && $slct != "xxx") {
 		a, h1, h2, h3, strong { font-weight: bold;}
 		h2, h3 { margin: .5em 0;}
 		h1 { font-size: 2em; padding: .25em .5em;}
+		h1 a { text-decoration: none;}
+		h1 a:hover, h1 a:focus, h1 a:active { text-decoration: underline;}
 		h2 { font-size: 1.75em;}
 		h3 { font-size: 1.5em;}
 		a:hover, a:focus, a:active { text-decoration: none;}
@@ -55,7 +57,7 @@ if ($slct != "" && $slct != "xxx") {
 <body>
 <div id="wrap">
 	<div id="hdr" role="banner">
-		<h1>jfciii Ate Here</h1>
+		<h1><a href="/10kapart/index.php">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
 		<form name="RequestForm" method="get" action="index.php" role="form">
