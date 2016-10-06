@@ -22,7 +22,7 @@ if ($slct != "" && $slct != "xxx") {
 		#hdr { background: #ACC7FF;}
 		#cntnt, #ftr { padding: 1em; background: #fff;}
 		#cntnt, #ftr , #ftr { border-top: 1px solid #000;}
-		h1, h2, h3, strong { font-weight: bold;}
+		a, h1, h2, h3, strong { font-weight: bold;}
 		h2, h3 { margin: .5em 0;}
 		h1 { font-size: 2em; padding: .25em .5em;}
 		h2 { font-size: 1.75em;}
@@ -107,9 +107,9 @@ if ($slct != "" && $slct != "xxx") {
 		</div>
 		<hr>
     <?php	}	?>
-		<p><a href="#cntnt"><strong>Return to Top of Page</strong></a></p>
+		<p><a href="#cntnt">Return to Top of Page</a></p>
 	<?php	}	?>
-		<p>For more restaurants for a given location and a few more cities make sure to check out <a href="http://jfciii.com/atehere/"><strong>John F Croston III Ate Here</strong></a>.</p>
+		<p>For more restaurants for a given location and a few more cities make sure to check out <a href="http://jfciii.com/atehere/">John F Croston III Ate Here</a>.</p>
 	</div>
 	<div id="ftr" role="contentinfo">
 		<p role="contentinfo">&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>		
