@@ -69,6 +69,17 @@
 				"note": "From bagels to Knishes to egg creams this place has them."
             },
             {
+                "name": "Chaia",
+				"add1": "3207 Grace St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20007",
+				"phn": "(202) 333-5222",
+				"url": "http://www.chaiadc.com/",
+				"note": "Chaia's 'farm to taco' is a unique relationship between farmers and urban street-style food. Chaia offers seasonal, plant-based tacos, sides and natural drinks in a stylish, casual setting."
+            },
+            {
                 "name": "Chinatown Express",
 				"add1": "746 6th St NW",
 				"add2": "",
