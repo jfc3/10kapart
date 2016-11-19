@@ -330,6 +330,17 @@
 				"phn": "(212) 780-9204",
 				"url": "",
 				"note": "Pint-sized market with basic Mexican staples & a counter serving classic take-out eats like tacos. Order whatever is on special."
+            },
+            {
+                "name": "Zucker's Bagels and Smoked Fish",
+				"add1": "146 Chambers St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10007",
+				"phn": "(212) 608-5844",
+				"url": "http://www.zuckersbagels.com/",
+				"note": "Bagels (plus a wide selection of toppings), smoked fish, sandwiches & more in a bustling space."
             }
         ]
     }
