@@ -47,6 +47,17 @@
 				"note": "Artsy neighborhood bakery & coffeehouse supplying espresso drinks, big cupcakes and signature granola."
             },
             {
+                "name": "Beefsteak",
+				"add1": "800 22nd St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20052",
+				"phn": "(202) 296-1421",
+				"url": "http://beefsteakveggies.com/",
+				"note": "Fast-casual chain from José Andrés' restaurant group specializing in flavorful veggie and grain bowls."
+            },
+            {
                 "name": "Ben's Chili Bowl",
 				"add1": "1213 U St NW",
 				"add2": "",
