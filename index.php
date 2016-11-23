@@ -73,12 +73,12 @@ if ($slct != "" && $slct != "xxx") {
 				<option value="col">Columbus, OH</option>
 				<option value="de">Delaware</option>
 				<option value="las">Las Vegas, NV</option>
-				<option value="md">Maryland Suburbs</option>
+				<option value="md">Maryland</option>
 				<option value="mem">Memphis, TN</option>
 				<option value="ms">Mississippi</option>
 				<option value="msy">New Orleans, LA</option>
 				<option value="nyc">New York, NY</option>
-				<option value="nva">Northern Virginia Suburbs</option>
+				<option value="nva">Northern Virginia</option>
 				<option value="ocnj">Ocean City, NJ</option>
 				<option value="phl">Philadelphia, PA</option>
 				<option value="pdx">Portland, OR</option>
