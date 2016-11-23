@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here - 10K Apart Entry
-* Release Number:  v.0.2.0
+* Release Number:  v.0.3.0
 * Release Date: 09-27-2016
 
 ## Overview
@@ -20,12 +20,12 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Columbus, OH
 * Delaware
 * Las Vegas, NV
-* Maryland Suburbs
+* Maryland
 * Memphis, TN
 * Mississippi
 * New Orleans, LA
 * New York, NY
-* Northern Virginia Suburbs
+* Northern Virginia
 * Ocean City, NJ
 * Philadelphia, PA
 * Portland, OR
