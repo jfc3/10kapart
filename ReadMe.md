@@ -9,30 +9,30 @@ The project you are looking at are restauarants [John F Croston III](http://jfci
 
 When I started this project, I had been thinking about a more involved version of this application that a person could keep track of all the places they wanted to eat when they travel. More of a personal recommendation or list of places to eat. So this was a way to try a few ideas out and make it quick and easy to display restaurant information, along with being only 10 Kb.
 
-This project uses hand-coded JSON files of cities, states, and nearby locations, which currently are the following:
+This project uses hand-coded JSON files of cities, states, and nearby locations, which currently are the following with their JSON file name after the name:
 
-* Annapolis, MD
-* Austin, TX
-* Baltimore, MD
-* Boston, MA
-* Buffalo, NY
-* Cleveland, PA
-* Columbus, OH
-* Delaware
-* Las Vegas, NV
-* Maryland
-* Memphis, TN
-* Mississippi
-* New Orleans, LA
-* New York, NY
-* Northern Virginia
-* Ocean City, NJ
-* Philadelphia, PA
-* Portland, OR
-* Rochester, NY
-* San Deigo, CA
-* Syracuse, NY
-* Washington, DC
+* Annapolis, MD - ann
+* Austin, TX - aus
+* Baltimore, MD - bal
+* Buffalo, NY - buf
+* Boston, MA - bos
+* Cleveland, PA - cle
+* Columbus, OH - col
+* Delaware - de
+* Las Vegas, NV - las
+* Maryland - md
+* Memphis, TN -  mem
+* Mississippi - ms
+* New Orleans, LA - msy
+* New York, NY - nyc
+* Northern Virginia - nva
+* Ocean City, NJ - ocnj
+* Philadelphia, PA - phl
+* Portland, OR - pdx
+* Rochester, NY - roc
+* San Deigo, CA - san
+* Syracuse, NY - syr
+* Washington, DC - dca
 
 If you look in the CTY folder, you will find some cities and locations with more than one file. The ones with a dash and the word full (-full) in the name are the full version of the city or location. One of my goals was to create the HTML template and CSS in about 3 - 4Kb, so I had 6 or 7 Kb for content, along with that I wanted the rendered page to be under 10 Kb without minifying or zipping anything. Hopefully, I have done that.
 
