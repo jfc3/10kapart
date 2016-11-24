@@ -38,7 +38,8 @@ if ($slct != "" && $slct != "xxx") {
 		label { position: relative; display: block;}
 		select { width: 100%; margin: 0 .5em 0 0;}
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
-		.scrn-rdr { position: absolute; left: -10000px; top: auto;}		
+		.scrn-rdr { position: absolute; left: -10000px; top: auto;}	
+		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}	
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
@@ -60,6 +61,10 @@ if ($slct != "" && $slct != "xxx") {
 		<h1><a href="/10kapart/index.php">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
+		<?php		
+		 if ($slct == "xxx") {
+			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
+		}	?>
 		<form name="RequestForm" method="get" action="index.php" role="form">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
