@@ -5,7 +5,7 @@
 * Release Date: 09-27-2016
 
 ## Overview
-The project you are looking at are restauarants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that location.
+The project you are looking at are restaurants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that location.
 
 When I started this project, I had been thinking about a more involved version of this application that a person could keep track of all the places they wanted to eat when they travel. More of a personal recommendation or list of places to eat. So this was a way to try a few ideas out and make it quick and easy to display restaurant information, along with being only 10 Kb.
 
