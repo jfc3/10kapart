@@ -47,15 +47,18 @@ So in the near future, I plan on creating an application that people can keep tr
 ## New Features and Enhancements
 Features:
 
-* Add more cities and more restaurants.
-* Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location.
-* Possibly add an accessible SVG map of the Unites States that will allow people to see places to eat in those states.
-* Look into adding social media for at least Twitter and Facebook so people can point their friends to the website.
-* Add Google Analytics to see if the full website is getting any traffic.
+* Travel more to be able to add more cities and more restaurants.
+* Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants so people don't have to load a second page.
+* Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
+* Add a way to check that people are not attempting to change the URL to find palces not listed. Most likely to use an ARRAY so we can loop through the list to look for matches.
+* Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
+* Add Google Analytics to see if the full website is getting any traffic besides myself.
+
 Enhancements:
 
 * Added Boston, MA, to drop down list and created necessary JSON.
 * Added code to check INPUT field for special characters.
+* Added error message for when people submit the FORM without selecting a location.
 
 ## Installation
 Please have the following installed before running:
