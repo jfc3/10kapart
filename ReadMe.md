@@ -1,13 +1,13 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here - 10K Apart Entry
-* Release Number:  v.0.3.0
+* Release Number:  v.0.3.1
 * Release Date: 09-27-2016
 
 ## Overview
-The project you are looking at are restauarants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that city or location.
+The project you are looking at are restauarants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that location.
 
-When I started this project, I had been thinking about a more involved version of this application that a person could keep track of all the places they wanted to eat when they travel. More of a personal recommendation or lsit of palces to eat. So this was a way to try a few ideas out and make it quick and easy to display restaurant information, along with being only 10 Kb.
+When I started this project, I had been thinking about a more involved version of this application that a person could keep track of all the places they wanted to eat when they travel. More of a personal recommendation or list of places to eat. So this was a way to try a few ideas out and make it quick and easy to display restaurant information, along with being only 10 Kb.
 
 This project uses hand-coded JSON files of cities, states, and nearby locations, which currently are the following:
 
