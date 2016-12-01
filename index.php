@@ -120,7 +120,7 @@ if ($slct != "" && $slct != "xxx") {
 	</div>
 	<div id="ftr" role="contentinfo">
 		<p>&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
-		<p><a href="mailto:1okapart@jfciii.com?subject=Question from 10K Apart Entry">Questions?</a> <a href="https://github.com/jfc3/10kapart">GitHub</a></p>
+		<p><a href="mailto:10kapart@jfciii.com?subject=Question from 10K Apart Entry">Questions?</a> <a href="https://github.com/jfc3/10kapart">GitHub</a></p>
 	</div>
 </div>
 </body>
