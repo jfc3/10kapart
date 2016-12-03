@@ -1,6 +1,6 @@
 <?php
 $slct = htmlspecialchars($_GET['slct']);
-$locs = array("ann", "aus", "bal", "bos", "buf", "cle", "col", "de", "las", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
+$locs = array("", "ann", "aus", "bal", "bos", "buf", "cle", "col", "de", "las", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
 if (in_array($slct, $locs)) {
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
 	$jfo = json_decode($json_file);
@@ -69,7 +69,7 @@ if (in_array($slct, $locs)) {
 		<form name="RequestForm" method="get" action="index.php" role="form">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
-				<option value="">Select a location</option>
+				<option value="xxx">Select a location</option>
 				<option value="ann">Annapolis, MD</option>
 				<option value="aus">Austin, TX</option>
 				<option value="bal">Baltimore, MD</option>
