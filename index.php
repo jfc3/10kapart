@@ -63,7 +63,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
 		<?php		
-		 if (!in_array($slct, $locs)) {
+		 if (!in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
 		<form name="RequestForm" method="get" action="index.php" role="form">
@@ -95,7 +95,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			</select>
 			<input class="submit" type="submit" value="Submit">
 		</form>
-	<?php if ($_GET['slct'] == "" || $_GET['slct'] == "xxx") { ?>
+	<?php if (!in_array($slct, $locs) || $slct == "") { ?>
 		<h2>Welcome</h2>
 		<p>Here are places <a href="http://jfciii.com">John F Croston III</a> recommends to eat at when in any of these cities, states, or suburban locations which are part of my <a href="https://a-k-apart.com/">10K Apart</a> entry.</p>
 		<p>In the near future, I plan on creating an application that people can keep use track the places they want to eat when the travel.</p>
