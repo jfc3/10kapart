@@ -15,7 +15,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0" /> 
 	<style>
-		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline;}
+		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
 		select, input[type="submit"] { border: solid 1px #000; }
 		select:focus, select:active, input[type="submit"]:focus, input[type="submit"]:active { outline: solid 2px #000;}
 		body { background: #BEFF9E; color: #000; font-family: Helvetica, Verdana, Arial, sans-serif; line-height: 1;}
@@ -35,7 +35,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		a, a:visited { color: #000;}
 		hr { margin: .75em 0 .5em 0;}
 		form { margin: 1em 0;}
-		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.5em;}
+		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
 		label { position: relative; display: block;}
 		select { width: 100%; margin: 0 .5em 0 0;}
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
