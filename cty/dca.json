@@ -47,6 +47,17 @@
 				"note": "Large Latin-style sandwiches are served until late at this counter at a gas station."
             },
             {
+                "name": "Izakaya Seki",
+				"add1": "1117 V St NW,",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20009",
+				"phn": "(202) 588-5841",
+				"url": "https://www.sekidc.com/",
+				"note": "Trendy option for Japanese small plates and noodle dishes, plus sizable beer list in minimalist digs. Try the monkfish liver if they have any it's like Foie gras."
+            },
+            {
                 "name": "Maketto",
 				"add1": "1351 H St NE",
 				"add2": "",
