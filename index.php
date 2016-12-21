@@ -109,9 +109,9 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php } else { ?>
 			<h3 class="fn"><?php echo $post->name; ?></h3>
 	    <?php } ?>
-		<p><?php if ($post->note != "") { echo $post->note;} ?></p>
-			<p><strong>Address - </strong><span class="adr"><span class="street-address"><?php echo $post->add1; ?> <?php if ($post->add2 != "") { echo $post->add2.",";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></p>
-			<?php if ($post->phn != "") { echo "<p><strong>Phone - </strong>".$post->phn."</p>";} ?>
+			<p><!--strong>Address - </strong--><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></p>
+			<?php if ($post->phn != "") { echo "<p><!--strong>Phone - </strong-->".$post->phn."</p>";} ?>
+			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 		</div>
 		<hr>
     <?php	}	?>
