@@ -103,6 +103,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<?php } else { ?>
 			<h2><?php echo $city; ?></h2>
 			<p>All the restaurants listed are ones I have eaten at and recommend you get to when in these places.</p>
+			<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
     <?php foreach ($posts as $post) { ?>
 		<div class="vcard">
 		<?php if ($post->url != "") { ;?>
@@ -110,7 +111,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php } else { ?>
 			<h3 class="fn"><?php echo $post->name; ?></h3>
 	    <?php } ?>
-			<p><a href="https://www.google.com/maps/place/<?php echo $post->add1; ?>, <?php echo $post->cty; ?>, <?php echo $post->stt; ?>, <?php echo $post->zpcd; ?>" class="rest-addr"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 		</div>
