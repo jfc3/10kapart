@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here - 10K Apart Entry
-* Release Number:  v.0.3.3
-* Release Date: 01-16-2017
+* Release Number:  v.0.3.4
+* Release Date: 01-21-2017
 
 ## Overview
 The project you are looking at are restaurants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that location.
@@ -20,6 +20,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Columbus, OH - col
 * Delaware - de
 * Las Vegas, NV - las
+* Los Angeles, CA - lax
 * Maryland - md
 * Memphis, TN -  mem
 * Mississippi - ms
