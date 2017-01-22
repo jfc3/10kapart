@@ -1,6 +1,6 @@
 <?php
 $slct = htmlspecialchars($_GET['slct']);
-$locs = array("", "ann", "aus", "bal", "bos", "buf", "cle", "col", "de", "las", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
+$locs = array("", "ann", "aus", "bal", "bos", "buf", "cle", "col", "de", "las", "lax," "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
 if (in_array($slct, $locs) && $slct != "") {
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
 	$jfo = json_decode($json_file);
@@ -80,6 +80,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="col">Columbus, OH</option>
 				<option value="de">Delaware</option>
 				<option value="las">Las Vegas, NV</option>
+				<option value="lax">Los Angeles, CA</option>
 				<option value="md">Maryland</option>
 				<option value="mem">Memphis, TN</option>
 				<option value="ms">Mississippi</option>
