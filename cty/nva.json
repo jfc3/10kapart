@@ -3,7 +3,7 @@
         "city": "Northern Virginia",
 		"posts": [
             {
-                "name": "Bangkok Golden - Falls Church, VA",
+                "name": "Bangkok Golden",
 				"add1": "6395 Seven Corners Center",
 				"add2": "",
 				"cty": "Falls Church",
@@ -14,7 +14,7 @@
 				"note": "No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets."
             },
             {
-                "name": "Blue and White Carry Out - Alexandria",
+                "name": "Blue and White Carry Out",
 				"add1": "1024 Wythe St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -25,7 +25,7 @@
 				"note": "The Blue and White Carry Out only shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50."
             },
             {
-                "name": "Bob and Edith's - Columbia Pike",
+                "name": "Bob and Edith's",
 				"add1": "2310 Columbia Pike",
 				"add2": "",
 				"cty": "Arlington",
@@ -36,7 +36,7 @@
 				"note": "Old-school diner serving American comfort food 24/7 to everyone from hipsters to families."
             },
             {
-                "name": "Dairy Godmother - Del Ray, VA (Temporarily Closed)",
+                "name": "Dairy Godmother",
 				"add1": "2310 Mt Vernon Ave",
 				"add2": "",
 				"cty": "Alexandria",
@@ -44,10 +44,10 @@
 				"zpcd": "22301",
 				"phn": "(703) 683-7767",
 				"url": "http://www.thedairygodmother.com/",
-				"note": "Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
+				"note": "NOTE - (emporarily Closed. Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
             },
             {
-                "name": "Knotty Pine Restaurant - Front Royal, VA",
+                "name": "Knotty Pine Restaurant",
 				"add1": "801 N Royal Ave",
 				"add2": "",
 				"cty": "Front Royal",
@@ -58,7 +58,7 @@
 				"note": "Longtime local haunt offering classic American grub, including breakfast, plus a back bar area."
             },
             {
-                "name": "Peter Chang - Arlington, VA",
+                "name": "Peter Chang",
 				"add1": "2503 N Harrison St",
 				"add2": "",
 				"cty": "Arlington",
@@ -69,7 +69,7 @@
 				"note": "Cult chef Peter Chang serves his Sichuan playbook and special dishes at this spiffed-up storefront."
             },
             {
-                "name": "Pho 75 Arlington, VA",
+                "name": "Pho 75",
 				"add1": "1721 Wilson Blvd",
 				"add2": "",
 				"cty": "Arlington",
@@ -91,7 +91,7 @@
 				"note": "Unassuming spot for hamburgers with gourmet add-ons, steak & cheese sandwiches, boozy shakes and more."
             },
             {
-                "name": "Sugar Shack Donuts - Alexandria, VA",
+                "name": "Sugar Shack Donuts",
 				"add1": "804 N Henry St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -102,7 +102,7 @@
 				"note": "This offshoot of the Richmond original specializes in handmade donuts with unique glazes and toppings."
             },
             {
-                "name": "Taco Bamba - Falls Church, VA",
+                "name": "Taco Bamba",
 				"add1": "2190 Pimmit Dr",
 				"add2": "",
 				"cty": "Falls Church",
@@ -113,9 +113,9 @@
 				"note": "Colorful, counter-serve storefront dishing up Mexican eats for takeout or quick stand-up dining."
             },
             {
-                "name": "Taqueria Mexicana - Shen-valley Flea Market (White Post, VA)",
+                "name": "Taqueria Mexicana",
 				"add1": "2163 Fairfax Pike",
-				"add2": "",
+				"add2": "Shen-valley Flea Market",
 				"cty": "White Post",
 				"stt": "VA",
 				"zpcd": "22663",
