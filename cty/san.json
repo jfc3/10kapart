@@ -3,7 +3,7 @@
         "city": "San Diego, CA",
 		"posts": [
             {
-                "name": "El Puesto - on Prospect",
+                "name": "El Puesto",
 				"add1": "789 W Harbor Dr",
 				"add2": "",
 				"cty": "San Diego",
@@ -47,7 +47,7 @@
 				"note": "Intimate, moody bar pairing handcrafted drinks with New American plates featuring exotic meats."
             },
             {
-                "name": "Tajima Ramen Bar - Hillcrest",
+                "name": "Tajima Ramen Bar",
 				"add1": "3739 Sixth Ave",
 				"add2": "",
 				"cty": "San Diego",
