@@ -14,6 +14,17 @@
 				"note": "Bi-level eatery with floor-to-ceiling windows serving an innovative, locally sourced Mexican menu."
             },
             {
+                "name": "Hodad's",
+				"add1": "5010 Newport Ave,",
+				"add2": "",
+				"cty": "Ocean Beach",
+				"stt": "CA",
+				"zpcd": "92107",
+				"phn": "(619) 224-4623",
+				"url": "http://hodadies.com/",
+				"note": "At this burger joint patrons can dine inside restored cars or amid license plate-covered walls."
+            },
+            {
                 "name": "Karl Strauss Brewery",
 				"add1": "1157 Columbia St",
 				"add2": "",
