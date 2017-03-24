@@ -1,0 +1,238 @@
+{
+    "result": {
+        "city": "Los Angeles, CA",
+		"posts": [
+            {
+                "name": "A-Frame",
+				"add1": "12565 W Washington Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90066",
+				"phn": "(310) 398-7700",
+				"url": "http://www.aframela.com/",
+				"note": "Creative Asian and international flavors mix at this hip eatery with communal tables and patio dining. You need to try the baby back ribs and beer can chicken. If you're there on Sunday get the all-you-can-eat chicken which consists of three types of chicken, fries, corn, and Hawaiian buns."
+            },
+            {
+                "name": "Azla Ethiopian Vegan *",
+				"add1": "3655 S Grand Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90007",
+				"phn": "(213) 745-7455",
+				"url": "http://azlavegan.com/",
+				"note": "Casual, cheery counter-serve with small tables specializing in vegan renditions of Ethiopian dishes."
+            },
+            {
+                "name": "Blue Star Donuts",
+				"add1": "1142 Abbot Kinney Blvd",
+				"add2": "",
+				"cty": "Venice",
+				"stt": "CA",
+				"zpcd": "90291",
+				"phn": "(310) 450-5630",
+				"url": "http://www.bluestardonuts.com/",
+				"note": "Minimalist cafe for grab-and-go brioche donuts in grown-up flavors such as blueberry-bourbon-basil and the best apple fritter I have ever had in my life and I'm in my mid 50's."
+            },
+            {
+                "name": "chi SPACCA *",
+				"add1": "6610 Melrose Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90038",
+				"phn": "(323) 297-1133",
+				"url": "http://chispacca.com/",
+				"note": "Meaty, upscale Italian fare from a trio of star chefs in a Tuscan atmosphere with worn-wood tables."
+            },
+            {
+                "name": "Intelligentsia Coffee",
+				"add1": "1331 Abbot Kinney Blvd",
+				"add2": "",
+				"cty": "Venice",
+				"stt": "CA",
+				"zpcd": "90291",
+				"phn": "(310) 399-1233",
+				"url": "https://www.intelligentsiacoffee.com/venice-coffeebar",
+				"note": "High-end coffee bar chain serving daily roasted brews in an industrial-chic setting. They have a great dark chocolate hot chocolate and espresso (four shots)."
+            },
+            {
+                "name": "Kogi BBQ *",
+				"add1": "12236 W Washington Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90066",
+				"phn": "",
+				"url": "http://kogibbq.com/",
+				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget."
+            },
+            {
+                "name": "La Brea Bakery Cafe *",
+				"add1": "468 S La Brea Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 939-6813",
+				"url": "https://www.labreabakery.com/",
+				"note": "Popular for its handmade bread, this casual cafe serves sandwiches, soup and other light fare."
+            },
+            {
+                "name": "Leo's Tacos Truck",
+				"add1": "1515 S La Brea Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90019",
+				"phn": "(323) 346-2001",
+				"url": "http://www.leostacostruck.com/",
+				"note": "Leo's Tacos Truck has delicious Al Pastor tacos are better than ever with a taste that will leave you wanting more. You can order them by the plate full which most people do. The beef head, Tripe, etc. are outstanding."
+            },
+            {
+                "name": "Locol *",
+				"add1": "1950 E 103rd St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90002",
+				"phn": "",
+				"url": "http://www.welocol.com/",
+				"note": "Conscientious fast-food spot with simple design for breakfast, burgers and health-oriented options."
+            },
+            {
+                "name": "Monti Carlo *",
+				"add1": "3514 W 3rd St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90020",
+				"phn": "",
+				"url": "",
+				"note": "Dive Bar in Koreatown."
+            },
+            {
+                "name": "Myung in Dumplings",
+				"add1": "3109 W Olympic Blvd",
+				"add2": "B",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90006",
+				"phn": "(213) 381-3568",
+				"url": "http://myungin-dumplings.com/",
+				"note": "Traditional Korean buns and dumplings offered in a simple, subdued eatery with a pictorial menu."
+            },
+            {
+                "name": "Original Pantry Cafe",
+				"add1": "877 S Figueroa St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90017",
+				"phn": "(213) 972-9279",
+				"url": "http://www.pantrycafe.com/",
+				"note": "Casual cash-only diner, open since 1924, dishes up ample portions of American eats around the clock. You need to try the chicken fried steak or the pork chop breakfast specials if they have them."
+            },
+            {
+                "name": "Osteria Mozza *",
+				"add1": "6602 Melrose Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90038",
+				"phn": "(323) 297-0100",
+				"url": "http://la.osteriamozza.com/",
+				"note": "Lauded upscale Italian cuisine from chefs Nancy Silverton and Mario Batali in a bustling atmosphere."
+            },
+            {
+                "name": "Pizzeria Mozza *",
+				"add1": "641 N. Highland Avenu",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 297-0101",
+				"url": "http://la.pizzeriamozza.com/",
+				"note": "Nancy Silverton and Mario Batali turn out acclaimed wood-burning-oven pizzas and antipasti in busy digs."
+            },
+            {
+                "name": "Salt and Straw",
+				"add1": "1357 Abbot Kinney Blvd",
+				"add2": "",
+				"cty": "Venice",
+				"stt": "CA",
+				"zpcd": "90291",
+				"phn": "(310) 310-8429",
+				"url": "http://saltandstraw.com/",
+				"note": "Popular ice cream chain out of Oregon known for inventive flavors and farm-sourced ingredients."
+            },
+            {
+                "name": "Simmzy's *",
+				"add1": "37 W Washington Blvd",
+				"add2": "",
+				"cty": "Venice",
+				"stt": "CA",
+				"zpcd": "90292",
+				"phn": "(424) 835-6580",
+				"url": "http://www.simmzys.com/",
+				"note": "Bustling, open-air pub with a rotating selection of craft beers and American eats, including burgers."
+            },
+            {
+                "name": "Super Tortas D.F. *",
+				"add1": "1098 E 41st St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90011",
+				"phn": "(323) 351-8379",
+				"url": "",
+				"note": "No-frills mobile eatery doling out Mexican tortas stuffed with layers of meats, cheese, and eggs. Found out about htis place while standing line for spit roasted al pastor."
+            },
+            {
+                "name": "Swadeah *",
+				"add1": "4153 W 3rd St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90020",
+				"phn": "(213) 386-7799",
+				"url": "",
+				"note": "Bare-bones establishment offering South Asian groceries and cafeteria-style Bangladeshi eats."
+            },
+            {
+                "name": "Tavern On 2 *",
+				"add1": "5110 E 2nd St",
+				"add2": "",
+				"cty": "Long Beach",
+				"stt": "CA",
+				"zpcd": "90803",
+				"phn": "(562) 856-4000",
+				"url": "http://www.tavernon2.com/",
+				"note": "Lively gastropub offering farm-fresh bites and a rotating menu of 50 craft beers and wines in warm digs. The dish to order is pig tails."
+            },
+            {
+                "name": "Tofu House (Beverly Soon Tofu) *",
+				"add1": "2717 W. Olympic Blvd.",
+				"add2": "#108",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90006",
+				"phn": "213) 380-1113",
+				"url": "http://beverlysoontofu.com/",
+				"note": "Traditional Korean dishes including more than 10 combinations of flavors of soon tofu, barbecued galbi, bulgogi, spicy chicken, spicy squid, tofu steak, and the stone plate bibimbap. You need to get the spicy tofu soup to put over rice."
+            },
+            {
+                "name": "Venice Ramen",
+				"add1": "515 Washington Blvd",
+				"add2": "",
+				"cty": "Marina Del Rey",
+				"stt": "CA",
+				"zpcd": "90292",
+				"phn": "(310) 448-8886",
+				"url": "",
+				"note": "Compact, simple Japanese eatery for housemade noodles in a range of broths, plus other specialties. No need for extra noodles since they give you so many to start with. The two types of dumplings are great too."
+            }
+        ]
+    }
+}
