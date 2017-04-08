@@ -2,7 +2,16 @@
 
 * John F Croston III Ate Here - 10K Apart Entry
 * Release Number:  v.0.3.6
-* Release Date: 03-26-2017
+* Release Date: 04-08-2017
+
+## Stopped Working this One
+Being that this repository is the same as the [ATE HERE](https://github.com/jfc3/atehere) one only with smaller JSON file sizes to keep the total page load below 10K, I have stopped doing double the work.
+
+If you want to see, the application working live go to [John F Croston III Ate Here](http://jfciii.com/atehere/).
+
+There will be no further code updating at this time unless I try something crazy and don't want to mess with the live version.
+
+Closing out all the open issues too.
 
 ## Overview
 The project you are looking at are restaurants [John F Croston III](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) had etean at and his [10K Apart](https://a-k-apart.com/) entry. The website allows people to select a city, state, or nearby location and see what restauarants I recommend in that location.
